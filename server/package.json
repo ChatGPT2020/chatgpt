@@ -1,11 +1,11 @@
 {
-  "name": "server",
+  "name": "chatapi",
   "version": "1.0.0",
   "description": "",
 
   "type":"module",
   "scripts": {
-    "server":"nodemon server"
+    "server": "nodemon server"
   },
   "keywords": [],
   "author": "",
